@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6ab6cc56f9de5419d8eb622a88877c, type: 3}
+  m_Name: Mordekaiser
+  m_EditorClassIdentifier: 
+  m_ChampionImage: {fileID: 21300000, guid: 7610b8e2239c5a74bbae4844eb314361, type: 3}
+  m_ChampionName: Mordekaiser
+  m_ChampionDescription: "Twice slain and thrice born, Mordekaiser Mordekaiser is
+    a brutal warlord from a foregone epoch, who uses his necromantic sorcery necromantic
+    sorcery to bind souls into an eternity of servitude. Few now remain who remember
+    his earlier conquests, or know the true extent of his powers\u2014but there are
+    some ancient souls that do, and they fear the day when he may return to claim
+    dominion over both the living and the dead."
+  m_ChampionEffectDataset: {fileID: 11400000, guid: 5f8c8e6b43749764bad5ab8f1303f779, type: 2}

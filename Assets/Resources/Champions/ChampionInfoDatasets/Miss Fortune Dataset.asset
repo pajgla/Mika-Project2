@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6ab6cc56f9de5419d8eb622a88877c, type: 3}
+  m_Name: Miss Fortune Dataset
+  m_EditorClassIdentifier: 
+  m_ChampionImage: {fileID: 21300000, guid: 6e06f6770f31dc44f8b7d61e8b8a0d79, type: 3}
+  m_ChampionName: Miss Fortune
+  m_ChampionDescription: "A Bilgewater Crest icon.png Bilgewater captain famed for
+    her looks but feared for her ruthlessness, Sarah Fortune Sarah Fortune paints
+    a stark figure among the hardened criminals of the port city. As a child, she
+    witnessed the reaver king Gangplank Gangplank murder her family\u2014an act she
+    brutally avenged years later, blowing up his flagship while he was still aboard.
+    Those who underestimate her will face a beguiling and unpredictable opponent...
+    and, likely, a bullet or two in their guts."
+  m_ChampionEffectDataset: {fileID: 11400000, guid: a05c237fbc97d6540bc2b9d532e62f88, type: 2}

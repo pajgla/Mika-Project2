@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b535dff2d359f5b4b87537aea76c5dbe, type: 3}
+  m_Name: Nocturne Effect
+  m_EditorClassIdentifier: 
+  m_EffectImage: {fileID: 21300000, guid: f36af1a10cc53104da83c7ff7545fd8f, type: 3}
+  m_EffectName: Paranoia
+  m_EffectDescription: Nocturne reduces the sight radius of all enemy champions and
+    removes their ally vision in the process. He can then launch himself at a nearby
+    enemy champion.

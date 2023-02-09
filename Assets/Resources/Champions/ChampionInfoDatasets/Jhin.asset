@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6ab6cc56f9de5419d8eb622a88877c, type: 3}
+  m_Name: Jhin
+  m_EditorClassIdentifier: 
+  m_ChampionImage: {fileID: 21300000, guid: 4f074dc72e96d304cbba1495817ccff4, type: 3}
+  m_ChampionName: Jhin
+  m_ChampionDescription: 'Jhin is a meticulous criminal psychopath who believes murder
+    is art. Once an Ionia Crest icon.png Ionian prisoner, but freed by shadowy elements
+    within Ionia''s ruling council, the serial killer now works as their cabal''s
+    assassin. Using his gun gun as his paintbrush, Jhin creates works of artistic
+    brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting
+    on his gruesome theater, making him the ideal choice to send the most powerful
+    of messages: terror.'
+  m_ChampionEffectDataset: {fileID: 11400000, guid: 4cd7cef004adbeb47874b9a9b487fc9f, type: 2}

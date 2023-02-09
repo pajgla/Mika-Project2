@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6ab6cc56f9de5419d8eb622a88877c, type: 3}
+  m_Name: Senna Dataset
+  m_EditorClassIdentifier: 
+  m_ChampionImage: {fileID: 21300000, guid: 9ca32724504d83c4e9a752d44f2f51dd, type: 3}
+  m_ChampionName: Senna
+  m_ChampionDescription: "Cursed from childhood to be haunted by the supernatural
+    Black Mist, Senna joined a sacred order known as the Sentinels of Light Crest
+    icon.svg Sentinels of Light, and fiercely fought back\u2014only to be killed:
+    her soul imprisoned in a lantern by the cruel wraith Thresh Thresh. But refusing
+    to lose hope, within the lantern Senna learned to use the Mist, and reemerged
+    to new life, forever changed. Now wielding darkness along with light, Senna seeks
+    to end the Black Mist by turning it against itself\u2014with every blast of her
+    relic weapon, redeeming the souls lost within."
+  m_ChampionEffectDataset: {fileID: 11400000, guid: 260a00eab12387f40a79a03f58e1f2a6, type: 2}
